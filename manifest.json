@@ -1,0 +1,20 @@
+{
+  "name": "Campo Pasto Legal",
+  "short_name": "CampoPasto",
+  "description": "Companheiro de campo para viagem técnica de planejamento forrageiro entre Goiânia e Norte de Minas Gerais. Offline-first.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "theme_color": "#081711",
+  "background_color": "#06110c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
